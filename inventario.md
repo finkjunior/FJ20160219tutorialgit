@@ -1,0 +1,2 @@
+espada: "zweihander"
+elmo: "pickelhaube"
